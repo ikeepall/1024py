@@ -14,4 +14,4 @@ for i in range(len(fl1) if len(fl1)>len(fl2) else len(fl2)):
                 print("第%d字符不一样" % j)
                 break
 
-print("一共%d处不一样" % i)
+print("哈哈，一共%d处不一样" % i)
